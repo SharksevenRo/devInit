@@ -3,5 +3,5 @@
         response.writeHead(200, {"Content-Type": "text/plain"});    
         response.write("Hello World");    
         response.end();  
-    }).listen(8086);  
-    console.log("nodejs start listen 8086 port!");  
+    }).listen(8000);  
+    console.log("nodejs start listen 8000 port!");  
