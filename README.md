@@ -1,1 +1,1 @@
-# sss hello_node ssdasdassdassadassssssssssssssss
+# sss hello_node ssdasdassdassad
